@@ -23,9 +23,9 @@
   "require": {
     "php": ">=5.6.0",
     "laravelcollective/html": "^5.4.2 || ^6.0",
-    "illuminate/support": "~5 || ~6",
-    "illuminate/config": "~5 || ~6",
-    "illuminate/routing": "~5 || ~6",
+    "illuminate/support": "~5 || ~6 || ~7",
+    "illuminate/config": "~5 || ~6 || ~7",
+    "illuminate/routing": "~5 || ~6 || ~7",
     "twbs/bootstrap": "~3"
   },
   "require-dev": {
